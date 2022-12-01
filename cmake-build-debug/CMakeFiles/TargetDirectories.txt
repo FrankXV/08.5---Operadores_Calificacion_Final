@@ -1,0 +1,3 @@
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Calificacion_Final/cmake-build-debug/CMakeFiles/Operadores_Calificacion_Final.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Calificacion_Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/Operadores_Calificacion_Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
